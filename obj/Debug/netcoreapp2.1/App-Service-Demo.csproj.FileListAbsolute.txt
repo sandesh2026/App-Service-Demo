@@ -1,0 +1,14 @@
+E:\Technical DOCS\sandesh2026\Dream2026\azure-practice\azure-appservice-demo\App-Service-Demo\bin\Debug\netcoreapp2.1\App-Service-Demo.deps.json
+E:\Technical DOCS\sandesh2026\Dream2026\azure-practice\azure-appservice-demo\App-Service-Demo\bin\Debug\netcoreapp2.1\App-Service-Demo.runtimeconfig.json
+E:\Technical DOCS\sandesh2026\Dream2026\azure-practice\azure-appservice-demo\App-Service-Demo\bin\Debug\netcoreapp2.1\App-Service-Demo.runtimeconfig.dev.json
+E:\Technical DOCS\sandesh2026\Dream2026\azure-practice\azure-appservice-demo\App-Service-Demo\bin\Debug\netcoreapp2.1\App-Service-Demo.dll
+E:\Technical DOCS\sandesh2026\Dream2026\azure-practice\azure-appservice-demo\App-Service-Demo\bin\Debug\netcoreapp2.1\App-Service-Demo.pdb
+E:\Technical DOCS\sandesh2026\Dream2026\azure-practice\azure-appservice-demo\App-Service-Demo\obj\Debug\netcoreapp2.1\App-Service-Demo.csprojAssemblyReference.cache
+E:\Technical DOCS\sandesh2026\Dream2026\azure-practice\azure-appservice-demo\App-Service-Demo\obj\Debug\netcoreapp2.1\App-Service-Demo.csproj.CoreCompileInputs.cache
+E:\Technical DOCS\sandesh2026\Dream2026\azure-practice\azure-appservice-demo\App-Service-Demo\obj\Debug\netcoreapp2.1\App-Service-Demo.RazorAssemblyInfo.cache
+E:\Technical DOCS\sandesh2026\Dream2026\azure-practice\azure-appservice-demo\App-Service-Demo\obj\Debug\netcoreapp2.1\App-Service-Demo.RazorAssemblyInfo.cs
+E:\Technical DOCS\sandesh2026\Dream2026\azure-practice\azure-appservice-demo\App-Service-Demo\obj\Debug\netcoreapp2.1\App-Service-Demo.AssemblyInfoInputs.cache
+E:\Technical DOCS\sandesh2026\Dream2026\azure-practice\azure-appservice-demo\App-Service-Demo\obj\Debug\netcoreapp2.1\App-Service-Demo.AssemblyInfo.cs
+E:\Technical DOCS\sandesh2026\Dream2026\azure-practice\azure-appservice-demo\App-Service-Demo\obj\Debug\netcoreapp2.1\App-Service-Demo.RazorTargetAssemblyInfo.cache
+E:\Technical DOCS\sandesh2026\Dream2026\azure-practice\azure-appservice-demo\App-Service-Demo\obj\Debug\netcoreapp2.1\App-Service-Demo.dll
+E:\Technical DOCS\sandesh2026\Dream2026\azure-practice\azure-appservice-demo\App-Service-Demo\obj\Debug\netcoreapp2.1\App-Service-Demo.pdb

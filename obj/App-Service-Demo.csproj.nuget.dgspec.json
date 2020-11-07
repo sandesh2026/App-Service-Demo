@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Technical DOCS\\sandesh2026\\Dream2026\\azure-practice\\azure-appservice-demo\\App-Service-Demo\\App-Service-Demo.csproj": {}
+  },
+  "projects": {
+    "E:\\Technical DOCS\\sandesh2026\\Dream2026\\azure-practice\\azure-appservice-demo\\App-Service-Demo\\App-Service-Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Technical DOCS\\sandesh2026\\Dream2026\\azure-practice\\azure-appservice-demo\\App-Service-Demo\\App-Service-Demo.csproj",
+        "projectName": "App-Service-Demo",
+        "projectPath": "E:\\Technical DOCS\\sandesh2026\\Dream2026\\azure-practice\\azure-appservice-demo\\App-Service-Demo\\App-Service-Demo.csproj",
+        "packagesPath": "C:\\Users\\SandeshShetty\\.nuget\\packages\\",
+        "outputPath": "E:\\Technical DOCS\\sandesh2026\\Dream2026\\azure-practice\\azure-appservice-demo\\App-Service-Demo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SandeshShetty\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
